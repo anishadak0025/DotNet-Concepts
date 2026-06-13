@@ -1,0 +1,14 @@
+D:\.net\DelegateDemo\obj\Debug\net9.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\DelegateDemo\obj\Debug\net9.0\DelegateDemo.AssemblyInfoInputs.cache
+D:\.net\DelegateDemo\obj\Debug\net9.0\DelegateDemo.AssemblyInfo.cs
+D:\.net\DelegateDemo\obj\Debug\net9.0\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\.net\DelegateDemo\bin\Debug\net9.0\DelegateDemo.exe
+D:\.net\DelegateDemo\bin\Debug\net9.0\DelegateDemo.deps.json
+D:\.net\DelegateDemo\bin\Debug\net9.0\DelegateDemo.runtimeconfig.json
+D:\.net\DelegateDemo\bin\Debug\net9.0\DelegateDemo.dll
+D:\.net\DelegateDemo\bin\Debug\net9.0\DelegateDemo.pdb
+D:\.net\DelegateDemo\obj\Debug\net9.0\DelegateDemo.dll
+D:\.net\DelegateDemo\obj\Debug\net9.0\refint\DelegateDemo.dll
+D:\.net\DelegateDemo\obj\Debug\net9.0\DelegateDemo.pdb
+D:\.net\DelegateDemo\obj\Debug\net9.0\DelegateDemo.genruntimeconfig.cache
+D:\.net\DelegateDemo\obj\Debug\net9.0\ref\DelegateDemo.dll
