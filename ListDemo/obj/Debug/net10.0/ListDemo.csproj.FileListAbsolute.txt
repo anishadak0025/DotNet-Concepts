@@ -1,0 +1,14 @@
+D:\.net\ListDemo\bin\Debug\net10.0\ListDemo.exe
+D:\.net\ListDemo\bin\Debug\net10.0\ListDemo.deps.json
+D:\.net\ListDemo\bin\Debug\net10.0\ListDemo.runtimeconfig.json
+D:\.net\ListDemo\bin\Debug\net10.0\ListDemo.dll
+D:\.net\ListDemo\bin\Debug\net10.0\ListDemo.pdb
+D:\.net\ListDemo\obj\Debug\net10.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ListDemo\obj\Debug\net10.0\ListDemo.AssemblyInfoInputs.cache
+D:\.net\ListDemo\obj\Debug\net10.0\ListDemo.AssemblyInfo.cs
+D:\.net\ListDemo\obj\Debug\net10.0\ListDemo.csproj.CoreCompileInputs.cache
+D:\.net\ListDemo\obj\Debug\net10.0\ListDemo.dll
+D:\.net\ListDemo\obj\Debug\net10.0\refint\ListDemo.dll
+D:\.net\ListDemo\obj\Debug\net10.0\ListDemo.pdb
+D:\.net\ListDemo\obj\Debug\net10.0\ListDemo.genruntimeconfig.cache
+D:\.net\ListDemo\obj\Debug\net10.0\ref\ListDemo.dll
